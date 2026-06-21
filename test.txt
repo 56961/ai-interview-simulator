@@ -1,0 +1,1 @@
+This is a plain text file, which should not be accepted by the resume parser.
